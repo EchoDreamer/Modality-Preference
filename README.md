@@ -3,4 +3,6 @@ This repository contains the official implementation of our paper, Evaluating an
 
 We provide the data in $MC^2$ for evaluating modality preference and controlling modality preference through noisy images or text context with grammer errors in this repository.
 
-The complete data of $MC^2$ can be found in [**🤗Huggingface**](271754echo/https://huggingface.co/datasets/271754echo/MC2)
+The complete data of $MC^2$ can be found in [**🤗Huggingface**](https://huggingface.co/271754echo/MC2)
+
+
