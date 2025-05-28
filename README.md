@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# <img src="left-right_brain.png" height="28px"> Evaluating and Steering Modality Preferences in Multimodal Large Language Model
+# Evaluating and Steering Modality Preferences in Multimodal Large Language Model
 
 
 
