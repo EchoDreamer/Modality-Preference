@@ -2,12 +2,12 @@
 
 <div align="center">
 
-# <img src="left-right_brain.png" height="28px"> Cross from Left to Right Brain: Adaptive Text Dreamer for Vision-and-Language Navigation
+# <img src="left-right_brain.png" height="28px"> Evaluating and Steering Modality Preferences in Multimodal Large Language Model
 
 
 
 <div>
-    <a href='http://arxiv.org/abs/2505.20897' target='_blank'><img src='https://img.shields.io/badge/Paper-Arxiv-red'></a>
+    <a href='https://arxiv.org/abs/2505.20977' target='_blank'><img src='https://img.shields.io/badge/Paper-Arxiv-red'></a>
 <!--     <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT"></a> -->
 </div>
 
