@@ -35,13 +35,19 @@ Add a new key named 'icc' in the "context" of evaluat_final.json, and move the o
 ## Code 
 ### Setting
 **1. model type**: including single, base_text, base_image and icc
+
 single: input both text and vision context but no instruction towards any modality
+
 base_text: only text context as input 
+
 base_image: only vision context as input
+
 icc: input both text and vision context with instruction towards vision or text modality
 
 **2. inference_type**: including single_multi_no_specific and base_multi
+
 single_multi_no_specific: for single in model type
+
 base_multi: for others in model type
 
 ### Inference (with saving hidden_states in results/$version/$mode_type/$inference_type/$model.h5):
