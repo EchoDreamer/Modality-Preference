@@ -50,13 +50,14 @@ single_multi_no_specific: for single in model type
 
 base_multi: for others in model type
 
-### Inference (with saving hidden_states in results/$version/$mode_type/$inference_type/$model.h5):
+### Inference:
 ```bash
 bash qwen_vl_7b.sh 0 icc base_multi
 bash qwen_vl_7b.sh 0 single single_multi_no_specific
 bash qwen_vl_7b.sh 0 base_text base_multi
 bash qwen_vl_7b.sh 0 base_image base_multi
 ```
+Saving hidden_states in results/$version/$mode_type/$inference_type/$model.h5
 ### PCA analyse
 Using the hidden_states from inference stage for PCA analyse
 
