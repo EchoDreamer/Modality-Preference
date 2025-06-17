@@ -60,9 +60,10 @@ bash qwen_vl_7b.sh 0 base_image base_multi
 Saving hidden_states in results/$version/$mode_type/$inference_type/$model.h5
 
 ### PCA analyse
-Using the hidden_states from inference stage for PCA analyse.
-
-- Set the file paths for `file_single` and `file_instruction` as follows:
+```bash
+python pca.py
+```
+- For pca.py, set the file paths for `file_single` and `file_instruction` as follows:
 
   - To generate the hidden states for `file_single`, run:
     ```bash
