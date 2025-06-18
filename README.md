@@ -5,11 +5,6 @@
 
 
 
-<div>
-    <a href='https://arxiv.org/abs/2505.20977' target='_blank'><img src='https://img.shields.io/badge/Paper-Arxiv-red'></a>
-<!--     <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT"></a> -->
-</div>
-
 </div>
 
 ## Project Overview
