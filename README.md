@@ -21,9 +21,7 @@ pip install -e .
 ```
 
 ## Data
-We provide the data in $MC^2$ for evaluating modality preference and controlling modality preference through noisy images or text context with grammer errors in this repository.
-
-The complete data of $MC^2$ can be found in [**🤗Huggingface**](https://huggingface.co/271754echo/MC2)
+We use the COCO2014 dataset in $MC^2$ for evaluating and steering modality preference.
 
 Add a new key named 'icc' in the "context" of evaluat_final.json, and move the original content of 'context' into the 'icc' dictionary.
 
